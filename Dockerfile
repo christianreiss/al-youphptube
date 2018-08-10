@@ -1,5 +1,5 @@
 # Parent Image
-FROM  ubuntu:latest
+FROM  ubuntu:16.04
 
 # Set some Meta-Info
 LABEL maintainer="Christian Reiss (email@christian-reiss.de)"
